@@ -1,11 +1,11 @@
 # Music Genre Classification
 
-[![Status](https://img.shields.io/badge/status-complete-brightgreen)](https://github.com/KuroKami2023/music-genre-classification)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange)](https://scikit-learn.org/)
-[![Librosa](https://img.shields.io/badge/librosa-0.9%2B-red)](https://librosa.org/)
-[![Accuracy](https://img.shields.io/badge/accuracy-%7E72%25-yellow)]()
+[](https://github.com/KuroKami2023/music-genre-classification)
+[](LICENSE)
+[](https://www.python.org/)
+[](https://scikit-learn.org/)
+[](https://librosa.org/)
+[]()
 
 > Classify music into 10 genres by extracting audio features with librosa and training ensemble classifiers with hyperparameter tuning.
 
@@ -74,18 +74,7 @@ Audio Files → librosa Feature Extraction → Feature Matrix (88 dims)
 
 *Best performer: SVM with RBF kernel — consistent F1 across all genres.*
 
-## Screenshots / Plots
-
-| Plot | Description |
-|------|-------------|
-| `results/mfcc_heatmaps.png` | MFCC coefficient patterns across genres |
-| `results/feature_distributions.png` | Key feature histograms per genre |
-| `results/pca_tsne.png` | PCA and t-SNE genre separability visualization |
-| `results/feature_correlation.png` | Feature correlation heatmap |
-| `results/cm_*.png` | Confusion matrix per model |
-| `results/model_comparison.png` | Side-by-side performance comparison |
-
-## Tech Stack
+# Tech Stack
 
 - **Python** — Core language
 - **Librosa** — Audio analysis and feature extraction
