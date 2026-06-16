@@ -9,6 +9,12 @@
 
 > Classify music into 10 genres by extracting audio features with librosa and training ensemble classifiers with hyperparameter tuning.
 
+---
+
+> 💡 **Portfolio demo:** A simplified browser-based version is available in the [portfolio website](https://kurokami2023.github.io).
+
+---
+
 ## Features
 
 - [x] **Multi-Model Classification** — SVM, Random Forest, KNN, and MLP with GridSearchCV tuning
